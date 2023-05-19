@@ -1,2 +1,2 @@
-# LMI_Solver
-LMI solver for the analysis of an affine quadratic stability regions. This MATLAB script solves a system of LMIs of an Lyapunov function of an LPV system and yields 2 solutions for given varying parameter value. 
+# LMI Solver
+LMI solver for the analysis of affine quadratic stability regions This MATLAB script solves a system of LMIs of a Lyapunov function of an LPV system and yields two solutions for a given varying parameter value.
